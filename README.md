@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{syh19}/count.svg" /></p>
+
+
+[![syh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=syh19&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
