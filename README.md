@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **syh19/syh19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### Hi I'm syh19 👋
+
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{syh19}/count.svg" /></p>
 
+A front-end developer. 
 
-[![syh19's GitHub stats](https://github-readme-stats.vercel.app/api?username=syh19&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Blogger, Lifelong learner.
+
+- Read more about my [Blog](https://suyahui.com/)
+
+<img align="right" title src="https://github-readme-stats.vercel.app/api?username=syh19&show_icons=true&hide_title=true" />
