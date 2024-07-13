@@ -8,4 +8,4 @@ A front-end developer.
 
 Blogger.
 
-- todo
+- 🙋‍♂️[Bio: https://bento.me/sylwair](https://bento.me/sylwair)
