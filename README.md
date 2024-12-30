@@ -7,7 +7,3 @@
 A front-end developer. 
 
 Blogger.
-
-- 🙋‍♂️[Bio: https://sylwair.com](https://sylwair.com)
-- 😀 [Emoji Say Chrome Extension: https://emojisay.com](https://emojisay.com)
-- 🤖 [AIFinder: https://aifinder.site](https://aifinder.site)
