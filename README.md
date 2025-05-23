@@ -10,4 +10,4 @@ A front-end developer.
 Blogger.
 
 products:
-- (ImgAIArt)[https://imgaiart.com]
+- [ImgAIArt](https://imgaiart.com)
